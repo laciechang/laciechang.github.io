@@ -4,7 +4,9 @@
 
 set -eu
 
-PAGES_BRANCH="gh-pages"
+
+
+PAGES_BRANCH="gh-pages_$(date +%Y%m%d)"
 
 _no_branch=false
 _backup_dir="$(mktemp -d)"

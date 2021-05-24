@@ -6,6 +6,7 @@ categories: [必读]
 tags: [其他]
 math: true
 mermaid: true
+order: 1
 ---
 
 # 我是谁我在哪我要干嘛

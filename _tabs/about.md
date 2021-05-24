@@ -5,4 +5,5 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> 微信公众号：后期暗房小黄灯 的GitHub Pages版
+> 持续搭建中
