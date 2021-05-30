@@ -2,13 +2,13 @@
 title: 【达芬奇jio本系列】袋装达芬奇已上架
 author: 张来吃
 date: 2021-05-24 18:29:30 +0800
-categories: [必读]
-tags: [其他]
+categories: [达芬奇jio本系列]
+tags: [python, 达芬奇]
 math: true
 mermaid: true
 ---
 
-> 今天更新的内容，灵感来源于某非知名调色师【老耿】】
+> 今天更新的内容，灵感来源于某非知名调色师【老耿】
 
 > 暂时仅支持macOS，Windows的话请疯狂转发并催稿
 
@@ -59,11 +59,10 @@ mermaid: true
 
 
 
-直接双击打开 ***install.command*** ，或者，打开系统自带的终端，把  ***install.command***  拖放到终端窗口中，按回车执行
+直接双击打开 `install.command` ，或者，打开系统自带的终端，把  `install.command`  拖放到终端窗口中，按回车执行
 
 
-
-图片
+![6a9f6fd029482edf3bb96716d87983c1d0728e342021-05-30-19-56-39](https://raw.githubusercontent.com/laciechang/img/master/spotlight_img/6a9f6fd029482edf3bb96716d87983c1d0728e342021-05-30-19-56-39.gif)
 
 此时将会把本机使用的各类配置，以及整个LUT文件夹都复制到这里。
 
@@ -73,7 +72,7 @@ mermaid: true
 
 
 
-在另外一台电脑上，用同样的方法，执行  ***run_resolve.command*** 
+在另外一台电脑上，用同样的方法，执行  `run_resolve.command`
 
 
 
@@ -81,7 +80,7 @@ mermaid: true
 
 
 
-图片
+![45aefe898dd96e8681d1c6b8aeb16aef922d2fdf2021-05-30-19-57-54](https://raw.githubusercontent.com/laciechang/img/master/spotlight_img/45aefe898dd96e8681d1c6b8aeb16aef922d2fdf2021-05-30-19-57-54.gif)
 
 随后脚本将会尝试找到这台电脑的达芬奇，以你U盘内的配置和LUT文件夹来运行达芬奇
 
@@ -91,7 +90,7 @@ mermaid: true
 
 
 
-图片
+![bfb044faa5d35fb8b1af4809de5e59455f76f3ba2021-05-30-19-58-28](https://raw.githubusercontent.com/laciechang/img/master/spotlight_img/bfb044faa5d35fb8b1af4809de5e59455f76f3ba2021-05-30-19-58-28.gif)
 
 
 
